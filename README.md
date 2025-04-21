@@ -1,1 +1,1 @@
-# Medigenius-AI-Powered-Prescription-Guide
+# Medicine-Recommendation-System-
